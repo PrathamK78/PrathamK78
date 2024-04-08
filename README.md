@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on my Chatbot + Ai image generator project named ENIGMA....<br>🌱 Currently learning animation using Framer Motion , GSAP and Locomotive.<br>☁️ Ask me about MERN stack (need to prepare for interviews)....<br>⚡ Let me think of a fun fact 🤔🤔<br>
+🔭 Peering into the digital cosmos, I'm concocting ENIGMA, my brainchild blending Chatbot magic with AI image wizardry! 🎩
+
+🌱 Venturing into the whimsical world of animation with Framer Motion, GSAP, and Locomotive. Beware, for I shall make pixels dance! 💃🕺
+
+☁️ Delve into the mysteries of the MERN stack with me! Need to prep for those interviews? Let's embark on this coding odyssey together. 🚀
+
+⚡Let me think of a cool fun fact 🤔🤔
 
 
 ## 🌐 Socials:
