@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi, I am a Software Engineer:
+What am I doing??
 🔭 Peering into the digital cosmos, I'm concocting ENIGMA, my brainchild blending Chatbot magic with AI image wizardry! 🎩
 
 🌱 Venturing into the whimsical world of animation with Framer Motion, GSAP, and Locomotive. Beware, for I shall make pixels dance! 💃🕺
