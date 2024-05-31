@@ -1,4 +1,4 @@
-# 💫 Hi, I am a Software Engineer:
+# 💫 Hi, fellow coders:
 What am I doing??
 
 🔭 Peering into the digital cosmos, I'm concocting ENIGMA, my brainchild blending Chatbot magic with AI image wizardry! 🎩
