@@ -1,13 +1,13 @@
 # 💫 Hi, fellow coders:
 What am I doing??
 
-🔭 Peering into the digital cosmos, I'm concocting ENIGMA, my brainchild blending Chatbot magic with AI image wizardry! 🎩
-
 🌱 Venturing into the whimsical world of animation with Framer Motion, GSAP, and Locomotive. Beware, for I shall make pixels dance! 💃🕺
 
 ☁️ Delve into the mysteries of the MERN stack with me! Need to prep for those interviews? Let's embark on this coding odyssey together. 🚀
 
-⚡Let me think of a cool fun fact 🤔🤔
+⚡FUNFACT: In 1947, computer pioneer Grace Hopper and her team were working on the Harvard Mark II computer when they found that the machine was malfunctioning. After some investigation, they discovered the problem: a moth had gotten stuck in a relay.
+They carefully removed the insect and taped it into the logbook with the note "First actual case of bug being found." 🦋💻
+That's where the term "debugging" comes from — and yes, the original bug is now in the Smithsonian Museum!
 
 
 ## 🌐 Socials:
